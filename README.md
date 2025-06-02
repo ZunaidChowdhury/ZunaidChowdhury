@@ -1,6 +1,11 @@
 Hi there! I'm a self-taught developer with a passion for building both web and mobile applications. I have hands-on experience in:<br><br>🌐 Full-Stack Web Development using MERN Stack, Next.js, TypeScript, MongoDB, and PostgreSQL<br><br>📱 Android Development with Java, Kotlin, and Android Studio<br><br>🎮 Game Development using Unity and C#<br><br>Over the years, I've built several personal projects that helped me grow and understand real-world development workflows. While I don't have formal work experience yet, I’ve been actively learning, building, and solving problems—driven by curiosity and a love for technology.<br><br>I'm now focused on web development and looking for opportunities to join a collaborative team, learn from experienced developers, and contribute to meaningful projects. My goal is to continuously grow as a developer and make a positive impact through code.<br><br>Let’s connect and build something awesome together!
 
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZunaidChowdhury.ZunaidChowdhury&"  />
+</div>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zunaid-chowdhury-784735237) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KJ-Master-823) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:programmer.zunaid@gmail.com) 
 
