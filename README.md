@@ -1,9 +1,16 @@
+<div align="center">
+  <h1>Hello world! 👋, I'm Zunaid.</h1>
+  <p>A passionate Software Engineer, Full-Stack developer from Bangladesh.</p>
+</div>
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZunaidChowdhury.ZunaidChowdhury&"  />
+</div>
+
 Hi there! I'm a self-taught developer with a passion for building both web and mobile applications. I have hands-on experience in:<br><br>🌐 Full-Stack Web Development using MERN Stack, Next.js, TypeScript, MongoDB, and PostgreSQL<br><br>📱 Android Development with Java, Kotlin, and Android Studio<br><br>🎮 Game Development using Unity and C#<br><br>Over the years, I've built several personal projects that helped me grow and understand real-world development workflows. While I don't have formal work experience yet, I’ve been actively learning, building, and solving problems—driven by curiosity and a love for technology.<br><br>I'm now focused on web development and looking for opportunities to join a collaborative team, learn from experienced developers, and contribute to meaningful projects. My goal is to continuously grow as a developer and make a positive impact through code.<br><br>Let’s connect and build something awesome together!
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZunaidChowdhury.ZunaidChowdhury&"  />
-</div>
+
 
 
 ## 🌐 Socials:
@@ -43,8 +50,7 @@ Hi there! I'm a self-taught developer with a passion for building both web and m
 
 
 
-<h1>Hello world! 👋, I'm Zunaid.</h1>
-<p>A passionate Software Engineer, Full-Stack developer from Bangladesh.</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
