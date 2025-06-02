@@ -3,9 +3,7 @@
   <p>A passionate Software Engineer, Full-Stack developer from Bangladesh.</p>
 </div>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ZunaidChowdhury.ZunaidChowdhury&"  />
-</div>
+
 
 Hi there! I'm a self-taught developer with a passion for building both web and mobile applications. I have hands-on experience in:<br><br>🌐 Full-Stack Web Development using MERN Stack, Next.js, TypeScript, MongoDB, and PostgreSQL<br><br>📱 Android Development with Java, Kotlin, and Android Studio<br><br>🎮 Game Development using Unity and C#<br><br>
 
