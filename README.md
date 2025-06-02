@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello world! 👋, I'm Zunaid.</h1>
+  <h1>Hi! 👋, I'm Zunaid.</h1>
   <p>A passionate Software Engineer, Full-Stack developer from Bangladesh.</p>
 </div>
 
